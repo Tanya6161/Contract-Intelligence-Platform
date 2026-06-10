@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+chromadb
+pypdf
+requests
+beautifulsoup4
+plotly
